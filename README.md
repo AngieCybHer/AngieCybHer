@@ -12,19 +12,19 @@
 -      Created POA&M for 3 security control deficiencies
 
 -  **Risk Register**
--  Documented and rated five common cyber risks
--  Included suggested mitigation strategies
-
+-     Documented and rated five common cyber risks
+-     Included suggested mitigation strategies
+ 
 -  **Acceptable Use Policy**
--  Authored a formal policy aligned with NIST standards
+-     Authored a formal policy aligned with NIST standards
 
 -  **Security Metrics Dashboard**
--  Built a leadership-friendly slide deck for executive reporting
+-     Built a leadership-friendly slide deck for executive reporting
 -  -----
 - ..
 - Created by *Andrea Lawrence*
-- Contact angie.lawrence.jobs@gmail.com
-- LinkedIn: linkedin.com/in/andrealawrence
+-    Contact angie.lawrence.jobs@gmail.com
+-     LinkedIn: linkedin.com/in/andrealawrence
 
 <!---
 AngieCybHer/AngieCybHer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
