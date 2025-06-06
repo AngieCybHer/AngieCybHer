@@ -30,3 +30,8 @@
 AngieCybHer/AngieCybHer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Disclaimer
+This repository contains m ock cybersecurity documentationand sample projects created for educational and portfolio purposes.
+All organizations referenced (e.g _______________) are fictional, and no real company data is used
+The materials here reflect my understanding of cybersecurity gov ernance, risk , and comliance principles,including NIST 800-171, risk assessments, POA&MS, and policy development
+These examles are intended to demonstrate my technical writing skills, knowledge of frameworks,and abilty to support GRC programs in an enterprise environment.
